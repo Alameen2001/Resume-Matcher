@@ -7,8 +7,7 @@ Improves resume content using advanced LLMs (Gemini/Groq/OpenAI)
 Suggests relevant interview questions tailored to the job
 Produces a polished, downloadable PDF version of the resume
 
-Tech Stacks are
-Developed using Python 3.11 with a Streamlit-based UI
+Tech Stacks: Developed using Python 3.11 with a Streamlit-based UI
 Implemented semantic matching using NumPy and cosine similarity
 Integrated multiple LLM APIs (Gemini, Groq, OpenAI) with configurable support
 Generated PDFs using ReportLab
